@@ -1,0 +1,22 @@
+[{
+  "sex_id": 0,
+  "sex_name": "man",
+  "created_at": "2023/04/16 03:17:00.000",
+  "create_user": "test-user",
+  "create_program": "hand",
+  "is_deleted": false
+},{
+  "sex_id": 1,
+  "sex_name": "woman",
+  "created_at": "2023/04/16 03:17:00.000",
+  "create_user": "test-user",
+  "create_program": "hand",
+  "is_deleted": false
+},{
+  "sex_id": 2,
+  "sex_name": "others",
+  "created_at": "2023/04/16 03:17:00.000",
+  "create_user": "test-user",
+  "create_program": "hand",
+  "is_deleted": false
+}]
